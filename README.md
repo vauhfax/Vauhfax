@@ -1,4 +1,4 @@
-## Vauhfax - this is the second account of the cool developer Lagnuty 👋
+## Vauhfax - this is the second account of the cool developer [Lagnuty](https://github.com/Lagnuty) 👋
 
 <!--
 **vauhfax/Vauhfax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
